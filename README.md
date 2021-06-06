@@ -5,4 +5,6 @@ From a data set of accelerations of three different walkers we compute Rips comp
 
 For the latter, PCA is implemented.
 
-Both, data sets and algorithms used, can be found in https://github.com/GUDHI
+Both, data sets and algorithms used, can be found in:
+- https://github.com/GUDHI
+- https://github.com/GUDHI/TDA-tutorial
